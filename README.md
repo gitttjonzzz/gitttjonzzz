@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Jonathan 👋
 
-<!--
-**gitttjonzzz/gitttjonzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science student at UF  
+📍 Miami, Florida  
+🚀 Aspiring Software Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- I’m currently learning C++, JavaScript, and Data Structures
+- I’m working on improving my problem-solving skills
+- I enjoy building projects that apply what I learn
+- Long-term goal: become a software engineer
+
+---
+
+## 🛠️ Skills
+- C++
+- JavaScript
+- HTML & CSS
+- Git & GitHub
+- Python
+- React
+
+---
+
+## 📂 Projects
+- 📱 Internship Support Tool
+- 💻 Spotify Playlist Generator 
+- 🎨 Velocity
+
+---
+
+## 🎯 Goals
+- Build real-world, impactful projects
+- Contribute to open source
+- Land a software engineering internship
+
+---
+
+## 🤝 Let's Connect
+- www.linkedin.com/in/jonathan-palmaaa
+
+---
+
+⭐️ Always learning, always building
